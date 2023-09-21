@@ -17,7 +17,7 @@ export default function Home() {
   function handleParticipantAdd() {
     if (participants.includes(participantName)) {
       return Alert.alert(
-        "Participante Existe",
+        "Participante Existeee",
         "já existe um participante na lista com esse nome"
       );
     }
